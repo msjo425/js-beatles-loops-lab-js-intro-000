@@ -26,8 +26,8 @@ function iLoveTheBeatles(counter){
   counter += 1
   return counter
   do {
-  array.push("I love the beatles")
-} while (iLoveTheBeatles(counter) < 15)
+  array.push("I love the beatles")}
+  while (iLoveTheBeatles(counter) < 15)
   }
   return array
 }
