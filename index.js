@@ -20,8 +20,8 @@ function johnLennonFacts(array) {
 }
 
 function iLoveTheBeatles(counter){
-  counter += 1 
   const array = []
+  counter += 1
   do {
 
   } while (counter < 15)
