@@ -23,6 +23,6 @@ function iLoveTheBeatles(counter){
   const array = []
   do {
 
-  } while (i < 15)
+  } while (counter < 15)
   }
 }
