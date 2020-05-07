@@ -28,6 +28,5 @@ function iLoveTheBeatles(counter){
   do {
   array.push("I love the beatles")}
   while (iLoveTheBeatles(counter) < 15)
-  }
   return array
 }
