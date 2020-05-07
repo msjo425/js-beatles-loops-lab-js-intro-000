@@ -19,6 +19,8 @@ function johnLennonFacts(array) {
   return array;
 }
 
+let counter = 0 
+
 function iLoveTheBeatles(){
   const array = []
   counter += 1
