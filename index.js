@@ -19,14 +19,14 @@ function johnLennonFacts(array) {
   return array;
 }
 
-let counter = 0 
+let counter = 0
 
 function iLoveTheBeatles(){
   const array = []
   counter += 1
-  return counter 
+  return counter
   do {
 
-  } while (i < 15)
+  } while (iLoveTheBeatles() < 15)
   }
 }
