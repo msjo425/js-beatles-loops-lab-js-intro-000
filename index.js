@@ -24,8 +24,9 @@ let counter = 0
 function iLoveTheBeatles(){
   const array = []
   counter += 1
+  return counter 
   do {
 
-  } while (counter < 15)
+  } while (i < 15)
   }
 }
