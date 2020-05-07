@@ -21,7 +21,7 @@ function johnLennonFacts(array) {
 
 let counter = 0
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(counter){
   const array = []
   counter += 1
   return counter
