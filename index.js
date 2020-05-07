@@ -24,7 +24,7 @@ function johnLennonFacts(array) {
 function iLoveTheBeatles(counter){
   const array = []
   do {
-  array.push("I love the beatles!")
+  array.push("I love the Beatles!")
   counter += 1
   }
   while (counter < 15)
