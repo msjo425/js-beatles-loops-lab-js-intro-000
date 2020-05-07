@@ -23,6 +23,6 @@ function iLoveTheBeatles(){
   const array = []
   do {
 
-  } 
+  } while ()
   }
 }
