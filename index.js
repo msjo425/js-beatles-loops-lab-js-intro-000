@@ -19,7 +19,7 @@ function johnLennonFacts(array) {
   return array;
 }
 
-function iLoveTheBeatles(index){
+function iLoveTheBeatles(counter){
   const array = []
   do {
 
